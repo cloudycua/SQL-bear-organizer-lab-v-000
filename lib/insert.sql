@@ -1,0 +1,8 @@
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mr. Chocolate", 1, "M", "Brown", "Mellow", "True")
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, NULL, NULL, NULL, NULL, NULL)
